@@ -1,2 +1,2 @@
-# JSP.Basic
+# JSP_Basic
 JSP Basic Class
